@@ -12,10 +12,10 @@ linkedin_username: grace-eunhye-kim
 facebook_username:
 
 # External API
-giscus_repo:
-giscus_repoId:
-giscus_category:
-giscus_categoryId:
+giscus_repo: "eunhyekim-grace/eunhyekim-grace.github.io"
+giscus_repoId: "R_kgDOLvuC7Q"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOLvuC7c4Cew5v"
 goatcounter_code: gracegithubblog
 google_analytics:
 
