@@ -1,10 +1,15 @@
+#loading-text{
+    position: relative;
+    top: -50px;
+}
+
 <div id="loading">
     <div class="loading_box">
         
         <video width="400" height="600" muted autoplay loop>
             <source src="{{'/assets/img/ai_emoji_wm.webm'}}" type="video/mp4">
         </video>
-        <p padding-top: -20px >Now Loading ...</p>
+        <p id="loading-text" >Now Loading ...</p>
     </div>
 </div>
 <!-- <img src="{{ '/assets/img/loading.webp' }}"> -->
