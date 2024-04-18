@@ -5,11 +5,11 @@ profile_img: "/assets/img/profile.webp"
 
 # Social Links
 email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
+github_username: eunhyekim-grace
+twitter_username:
+instagram_username: ffgrace_
 linkedin_username: linkedin
-facebook_username: facebook
+facebook_username:
 
 # External API
 giscus_repo:
