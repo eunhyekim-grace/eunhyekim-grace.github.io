@@ -4,11 +4,11 @@ logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
+email: gracekim30820@gmail.com
 github_username: eunhyekim-grace
 twitter_username:
 instagram_username: ffgrace_
-linkedin_username: linkedin
+linkedin_username: grace-eunhye-kim
 facebook_username:
 
 # External API
@@ -16,7 +16,7 @@ giscus_repo:
 giscus_repoId:
 giscus_category:
 giscus_categoryId:
-goatcounter_code:
+goatcounter_code: gracegithubblog
 google_analytics:
 
 # Build settings
